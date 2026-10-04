@@ -1,5 +1,6 @@
 ## Hi there 👋
-
+I’m currently building AetherLang, a fluid-syntax programming language that aims to capture the flexibility of human language, allowing dialects, slang, typos, and even unconventional sentence structures. 
+I'm also working on SEPIA, a predictive model capable of determining the side effects of a drug, personalised to the minutest details for each patient. 
 <!--
 **PythonManRemastered/PythonManRemastered** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
